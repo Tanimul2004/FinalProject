@@ -1,4 +1,0 @@
-
-Booking ID: 1000	Customer Name: Tanimul Hasan	Customer Phone Number: 4227225	Seat Number: 1
-Booking ID: 1001	Customer Name: Washim Akram	Customer Phone Number: 4227273	Seat Number: 2
-Booking ID: 1002	Customer Name: Zadid	Customer Phone Number: 4227321	Seat Number: 55
